@@ -11,8 +11,9 @@ import SwiftUI
 struct ContactAppApp: App {
     var body: some Scene {
         WindowGroup {
-           PostListView()
+            HomeView()
        
         }
     }
 }
+
