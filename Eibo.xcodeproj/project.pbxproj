@@ -103,6 +103,7 @@
 		E747B62A26219C990000C6B5 /* HomeNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747B62926219C990000C6B5 /* HomeNavigationBar.swift */; };
 		E74CA8242621B3640060F250 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74CA8232621B3640060F250 /* HomeView.swift */; };
 		E74CA8282625042E0060F250 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74CA8272625042D0060F250 /* UserData.swift */; };
+		E74CA84D262686920060F250 /* HScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74CA84C262686920060F250 /* HScrollViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -204,6 +205,7 @@
 		E747B62926219C990000C6B5 /* HomeNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeNavigationBar.swift; sourceTree = "<group>"; };
 		E74CA8232621B3640060F250 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		E74CA8272625042D0060F250 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		E74CA84C262686920060F250 /* HScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HScrollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -239,6 +241,7 @@
 				E747B55E262187F00000C6B5 /* EiboApp.swift */,
 				E74CA8232621B3640060F250 /* HomeView.swift */,
 				E747B560262187F00000C6B5 /* PostCell.swift */,
+				E74CA84C262686920060F250 /* HScrollViewController.swift */,
 				E747B56F2621885B0000C6B5 /* Post.swift */,
 				E747B572262188880000C6B5 /* PostListView.swift */,
 				E74CA8272625042D0060F250 /* UserData.swift */,
@@ -513,6 +516,7 @@
 				E74CA8282625042E0060F250 /* UserData.swift in Sources */,
 				E747B62726219B240000C6B5 /* PostDetailView.swift in Sources */,
 				E747B576262188BF0000C6B5 /* PostToolbarButton.swift in Sources */,
+				E74CA84D262686920060F250 /* HScrollViewController.swift in Sources */,
 				E747B55F262187F00000C6B5 /* EiboApp.swift in Sources */,
 				E747B579262188F10000C6B5 /* PostVIPBadge.swift in Sources */,
 				E747B62426218C610000C6B5 /* PostImageCell.swift in Sources */,
